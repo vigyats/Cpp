@@ -1,6 +1,5 @@
 # C++
-basic to advance<br />
-here I will upload the very very bais to mid advance level of dsa which i can code<br />
--Matrix and  diffrent matrix operations<br />
+start programming in cpp and use this very easy to understand repository and here we will cover all the basic to advance things with dsa and object oriented paradigms<br /><br />
+-Matrix and diffrent matrix operations<br />
 -add sum<br />
 -searching techniques<br />
