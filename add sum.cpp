@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    //add sum?
+    //add sum? leetcode question
     int a[5] = {1,2,3,4,5}; //sample array
     cout<<"enter a value: ";
     int sum;
